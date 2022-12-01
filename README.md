@@ -45,7 +45,7 @@ You can also see a situation where there is no answer to the search even in Engl
         <a href="https://github.com/Orkessler">
             <img src="https://avatars.githubusercontent.com/u/72926201?v=4" width="100;" alt="Orkessler"/>
             <br />
-            <sub><b>Null</b></sub>
+            <sub><b>Ori Kessler</b></sub>
         </a>
     </td>
     <td align="center">
