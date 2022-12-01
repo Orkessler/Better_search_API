@@ -54,8 +54,20 @@ def getMyAns(he_q):
 # the api function
 
 
+
 @app.route("/image", methods=['POST'])
 def get_img():
+    '''
+    :argument: txt , lang
+
+    need to provide txt in hebrew / english and to choose which lang u need - he vs en
+
+    200 is ok
+    400 fail
+
+    :return:
+        image_url - generated image url
+    '''
     input = request.get_json()
     if "txt" not in input and "lang" not in input:
         return make_response(
