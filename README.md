@@ -20,7 +20,7 @@ in four steps:
 4. Translate the answer back into Hebrew.
 
 All this is done in a python api that we built here:
-- [Better search api](https://github.com/Orkessler/Better_search_API)
+- [Better search frontend](https://github.com/Orkessler/Better_search)
 
 Frontend: react, js, css, html
 Backend:  python
