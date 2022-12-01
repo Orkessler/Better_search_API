@@ -4,7 +4,7 @@
 [link](https://modular-seeker-369214.de.r.appspot.com/)
 
 ## Better search
-a better search system than searching in Hebrew on Google.
+A better search system than searching in Hebrew on Google.
 
 Usually when the search on Google is done only in the language in which the user asked the question.
 In this way, the user is prevented from many answers that can be found in different languages.
