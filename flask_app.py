@@ -30,7 +30,7 @@ def getMyAns(he_q):
         "q": en_q.text,
         "hl": "en",
         "gl": "us",
-        "api_key": "20a2b41d24b1640b84931cd0d544465b17eb357752b9ec1ff4b27dde51a715c7"
+        "api_key": my_api_key
     }
     search = GoogleSearch(params)
     print("the search done")
